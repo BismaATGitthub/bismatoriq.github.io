@@ -402,3 +402,7 @@ body {
     padding: 24px 20px;
   }
 }
+
+#contact .hero-cta {
+  justify-content: center;
+}
