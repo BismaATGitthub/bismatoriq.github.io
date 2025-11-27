@@ -376,9 +376,7 @@ body {
 @media (max-width: 768px) {
   .hero-cta {
     flex-direction: column;
-    align-items: stretch;  
-    justify-content: center;   /* center horizontally */
-    align-items: center;       /* center vertically inside the row */
+    align-items: center;  
   }
   
   .btn {
